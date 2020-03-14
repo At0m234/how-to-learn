@@ -9,4 +9,4 @@
     <link rel="stylesheet" href="pages/index.css">
 </head>
 </html>
-```*
+```
