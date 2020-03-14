@@ -1,0 +1,12 @@
+@import url('../description/description.css');
+@import url('../technics/technics.css');
+@import url('../video/video.css');
+@import url('../oakley/oakley.css');
+@import url('../feinman/feinman.css');
+@import url('../digits/digits.css');
+@import url('../khan/khan.css');
+@import url('../kaufman/kaufman.css');
+@import url('../resources/resources.css');
+.content {
+    position: relative;
+}

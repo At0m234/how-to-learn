@@ -1,0 +1,18 @@
+@import url('../digits/section-title/_theme/section-title_theme_dark.css');
+@import url('../digits/section-subtitle/_theme/section-subtitle_theme_dark.css');
+@import url('../digits/table/_theme/table_theme_dark.css');
+@import url('../digits/table/__cell/_theme/table__cell_theme_dark.css');
+@import url('../digits/table/__heading/_theme/table__heading_theme_dark.css');
+@import url('../digits/table/__text/_theme/table__text_theme_dark.css');
+@import url('__triangle/kaufman__triangle.css');
+
+.kaufman {
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    flex-direction: column;
+    background-color: #1F1F1F;
+    z-index: -2;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}

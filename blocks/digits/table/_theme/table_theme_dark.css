@@ -1,0 +1,6 @@
+@import url('.__cell/_theme/table__cell_theme_dark.css');
+@import url('.__heading/_theme/table__heading_theme_dark.css');
+@import url('.__text/_theme/table__text_theme_dark.css');
+.table_theme_dark {
+    margin: 0 auto 90px auto;
+}
