@@ -1,5 +1,6 @@
-@import url('/logo/logo.css');
-@import url('__autor/footer__autor.css');
+@import url('../logo/logo.css');
+@import url('../logo/_place_footer/logo_place_footer.css');
+@import url('__author/footer__author.css');
 .footer__column_content_copyright {
     display: flex;
     flex-direction: column;

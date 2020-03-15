@@ -1,3 +1,5 @@
+@import url('__iframe/video__iframe.css');
+
 .video__iframes {
     display: flex;
     justify-content: space-between;
