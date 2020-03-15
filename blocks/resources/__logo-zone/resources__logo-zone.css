@@ -1,8 +1,0 @@
-@import url('../__logo/resources__logo');
-.logo__logo-zone {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    width: 1100px;
-    margin: 80px auto 0 auto;
-}
